@@ -2,4 +2,8 @@ A bunch of native ruby icmp implementations
 
 some work well some not so well.
 
+pinglite	just a function to ping
+		my first work, probably buggy, not very optimised 
+		not thread safe
+
 
