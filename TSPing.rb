@@ -47,8 +47,6 @@ class TSPing
 			@@last_seq += 1
 		}
 		
-		puts "#{id}/#{seq}"
-		
 		# create socket
 		begin
 			sock = Socket.new( Socket::PF_INET, Socket::SOCK_RAW, Socket::IPPROTO_ICMP )
