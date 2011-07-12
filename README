@@ -7,3 +7,5 @@ pinglite	just a function to ping
 		not thread safe
 
 
+TSPing	Thread Safe Ping (hopefully)
+		a thread-safe ping object, not many options, but should work ok
